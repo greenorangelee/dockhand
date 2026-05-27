@@ -55,7 +55,7 @@ Proxmox 웹 UI에서 새 LXC 컨테이너 생성:
 | 템플릿 | ubuntu-24.04-standard |
 | vCPU | 2코어 |
 | RAM | 2048 MB |
-| 디스크 | 20 GB |
+| 디스크 | 32 GB |
 | 네트워크 | 고정 IP (10.100.100.111/24) |
 
 ### Nesting 활성화 (필수)
