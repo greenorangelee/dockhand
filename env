@@ -1,0 +1,7 @@
+# ── PostgreSQL ───────────────────────────────────────────
+POSTGRES_USER=dockhand
+POSTGRES_PASSWORD=your-postgres-password-here
+POSTGRES_DB=dockhand
+
+# ── Dockhand ─────────────────────────────────────────────
+DOCKHAND_PORT=3000
