@@ -83,6 +83,7 @@ Dockhand LXC 콘솔에서 실행:
 ```bash
 apt update && apt upgrade -y
 curl -fsSL https://get.docker.com | sh
+sudo usermod -aG docker $USER
 docker --version  # 설치 확인
 ```
 
